@@ -172,29 +172,6 @@ The model generates three output files:
 - **Batch Size**: Adjust `minibatch` parameter based on available memory
 - **Graph Size**: Smaller graphs train faster but may be less realistic
 
-## 📚 References
-
-- [PyTorch Geometric Documentation](https://pytorch-geometric.readthedocs.io/)
-- [OpenAI Gym Documentation](https://www.gymlibrary.dev/)
-- [PPO Paper](https://arxiv.org/abs/1707.06347)
-- [Graph Neural Networks](https://arxiv.org/abs/1812.08434)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- PyTorch Geometric team for the excellent GNN library
-- OpenAI for the Gym framework
-- The reinforcement learning community for PPO implementation insights
-
----
-
 **Note**: This is a research implementation. For production use, consider additional testing, validation, and security measures.
 # AESER-IOT
 # AESER-IOT
