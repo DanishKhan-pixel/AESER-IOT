@@ -1,0 +1,5 @@
+AESER Evaluation (deterministic)
+Episodes: 300
+Average reward: 0.8746
+Success rate:  100.00%
+Average steps: 3.00
